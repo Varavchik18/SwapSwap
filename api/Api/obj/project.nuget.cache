@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "3Zd/KqYK/LhhBoUzLN3MbuN7O9FelotmIG5eUoC3DhVR8iUsLMyZ8v5dWp8x+jdjpZrEOnL/62ektGi0p/1yew==",
+  "dgSpecHash": "WrhdHxEYH7dG3P76Ur7x4L0x4TcTJhaAZAg0eXVJQkvsh/u1qxJAc5+XNEJ/jgkwMp7yoQWyfer49S/aJFDQ3w==",
   "success": true,
-  "projectFilePath": "D:\\Study\\SwapSwap\\api\\Api\\Api.csproj",
+  "projectFilePath": "D:\\Study\\SwapSwap\\api\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pasha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\pasha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\pasha\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\pasha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\pasha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",

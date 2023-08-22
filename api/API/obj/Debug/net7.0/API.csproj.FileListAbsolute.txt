@@ -1,0 +1,7 @@
+D:\Study\SwapSwap\api\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+D:\Study\SwapSwap\api\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SwapSwap\api\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+D:\Study\SwapSwap\api\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+D:\Study\SwapSwap\api\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+D:\Study\SwapSwap\api\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\SwapSwap\api\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
