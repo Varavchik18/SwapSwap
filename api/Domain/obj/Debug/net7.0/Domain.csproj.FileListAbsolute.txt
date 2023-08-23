@@ -1,7 +1,6 @@
 D:\Study\SwapSwap\api\Domain\bin\Debug\net7.0\Domain.deps.json
 D:\Study\SwapSwap\api\Domain\bin\Debug\net7.0\Domain.dll
 D:\Study\SwapSwap\api\Domain\bin\Debug\net7.0\Domain.pdb
-D:\Study\SwapSwap\api\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
 D:\Study\SwapSwap\api\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\Study\SwapSwap\api\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
 D:\Study\SwapSwap\api\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs

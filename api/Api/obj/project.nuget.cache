@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WrhdHxEYH7dG3P76Ur7x4L0x4TcTJhaAZAg0eXVJQkvsh/u1qxJAc5+XNEJ/jgkwMp7yoQWyfer49S/aJFDQ3w==",
+  "dgSpecHash": "LKFDvrCIUvsDfrJbbLjyk71nq3NXcfzfBr7LuUb/90zULCRDHEPXz65wirX7fPVPQre0x9ug3wU2c8SL2wD8OA==",
   "success": true,
-  "projectFilePath": "D:\\Study\\SwapSwap\\api\\API\\API.csproj",
+  "projectFilePath": "D:\\Study\\SwapSwap\\api\\API\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pasha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\pasha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

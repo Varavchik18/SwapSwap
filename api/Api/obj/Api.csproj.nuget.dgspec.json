@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\SwapSwap\\api\\API\\API.csproj": {}
+    "D:\\Study\\SwapSwap\\api\\API\\Api.csproj": {}
   },
   "projects": {
-    "D:\\Study\\SwapSwap\\api\\API\\API.csproj": {
+    "D:\\Study\\SwapSwap\\api\\API\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\SwapSwap\\api\\API\\API.csproj",
-        "projectName": "API",
-        "projectPath": "D:\\Study\\SwapSwap\\api\\API\\API.csproj",
+        "projectUniqueName": "D:\\Study\\SwapSwap\\api\\API\\Api.csproj",
+        "projectName": "Api",
+        "projectPath": "D:\\Study\\SwapSwap\\api\\API\\Api.csproj",
         "packagesPath": "C:\\Users\\pasha\\.nuget\\packages\\",
         "outputPath": "D:\\Study\\SwapSwap\\api\\API\\obj\\",
         "projectStyle": "PackageReference",
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -162,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -222,7 +222,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -299,7 +299,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
